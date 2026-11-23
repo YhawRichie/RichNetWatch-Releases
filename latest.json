@@ -1,8 +1,9 @@
+
 {
   "app_name": "RichNetWatch",
   "version": "1.0.0",
-  "download_url": "",
-  "sha256": "",
-  "release_notes": "Initial release.",
+  "download_url": "https://github.com/YhawRichie/RichNetWatch-Releases/releases/download/v1.0.0/RichNetWatch-Setup-1.0.0.exe",
+  "sha256": "9FAB35578E3A77886B86320543AD1F8CFCC78865D6B56516565C6E778CC8DE02",
+  "release_notes": "Initial release of RichNetWatch v1.0.0.",
   "minimum_version": "1.0.0"
 }
